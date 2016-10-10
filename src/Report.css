@@ -1,0 +1,12 @@
+
+.canvas {
+    background-color: rgb(153, 153, 153);
+    color: white;
+    font-size: 12pt;
+    text-align: right;
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+    overflow: hidden;
+    border-color: black;
+}

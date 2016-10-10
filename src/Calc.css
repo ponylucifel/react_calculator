@@ -1,0 +1,36 @@
+.Calc-container{
+    text-align: center;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.Calc-display{
+    text-align: right;
+    color: white;
+    background-color: rgb(153, 153, 153);
+    width: 200px;
+    margin: auto;
+    display: block;
+    overflow: hidden;
+    border-color: black;
+}
+
+.Calc-buttons div Button{
+    border-radius: 0px;
+    border-color: black;
+    background-color: rgb(224,224,224);
+    width: 50px;
+}
+
+#operators{
+    background-color: rgb(247, 146, 49)!important;
+    color: white;
+}
+
+.Calc-buttons div.firstRow Button{
+    background-color: rgb(200, 200, 200);
+}
+
+.Calc-buttons div Button.zero{
+    width: 100px;
+}
